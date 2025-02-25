@@ -76,12 +76,12 @@ pip install opencv-python
 Example:
 
 project_folder/
-    ├── steganography.py
-    ├── shark.png  # Image to use for hiding data
+    ├── stegano.py
+    ├── laptop.png  # Image to use for hiding data
 
 3. Run the Script
 
-python steganography.py
+python stegano.py
 
 4. Follow the Prompts
 
