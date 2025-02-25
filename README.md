@@ -77,7 +77,7 @@ Example:
 
 project_folder/
     ├── stegano.py
-    ├── laptop.png  # Image to use for hiding data
+    ├── shark.png  # Image to use for hiding data 
 
 3. Run the Script
 
